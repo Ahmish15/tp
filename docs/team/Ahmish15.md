@@ -1,7 +1,8 @@
 # Overview
 
-A short overview of your product to provide some context to the reader. The opening 1-2 sentences may be reused by all
-team members. If your product overview extends beyond 1-2 sentences, the remainder should be written by yourself.
+HealthBud is a CLI-based fitness logging assistant designed to help users track and improve their personal health goals.
+It enables users to log various health metrics—such as meals, workouts, water intake, personal bests, and cardio sessions—using an intuitive command interface.
+The application incorporates robust command parsing, in-memory log management, and persistent storage via text files, all structured in a modular design to support easy maintenance and future enhancements.
 
 # Summary of Contributions
 Implemented all the Add commands and their respective parser classes. Also implemented the Search and BMI Command and their parser classes.
